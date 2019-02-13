@@ -1,0 +1,472 @@
+[
+    {
+        "Item": "sporty_wall",
+        "Slot": 0,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_wallpaper",
+        "Slot": 2,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_wallpaper",
+        "Slot": 3,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "ghost_umbrella",
+        "Slot": 16,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "maple_umbrella",
+        "Slot": 17,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "shamrock_hat",
+        "Slot": 32,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "student_cap",
+        "Slot": 33,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "flamenco_hat",
+        "Slot": 34,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "red_team_hat",
+        "Slot": 35,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "white_team_hat",
+        "Slot": 36,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "hot_dog_hat",
+        "Slot": 38,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "celebration_hat",
+        "Slot": 39,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "emperor_s_cap",
+        "Slot": 40,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "banana_split_hat",
+        "Slot": 41,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "school_cap",
+        "Slot": 42,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "white_school_cap",
+        "Slot": 43,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "white_police_cap",
+        "Slot": 44,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "red_Pikmin",
+        "Slot": 48,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "blue_Pikmin",
+        "Slot": 49,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "yellow_Pikmin",
+        "Slot": 50,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Girl_s_Day_updo",
+        "Slot": 51,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "green_headgear",
+        "Slot": 52,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "red_headgear",
+        "Slot": 53,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "snowman_head",
+        "Slot": 54,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "tsunokakushi",
+        "Slot": 55,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Kintaro_wig",
+        "Slot": 56,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "guard_s_helmet",
+        "Slot": 57,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "tam_o_shanter",
+        "Slot": 58,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "red_horned_hat",
+        "Slot": 59,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "ladder_shades",
+        "Slot": 64,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "top",
+        "Slot": 80,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "tokonoma",
+        "Slot": 81,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Nintendo_DSi_W",
+        "Slot": 82,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "carp_banner",
+        "Slot": 83,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "eggplant_cow",
+        "Slot": 84,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Nintendo_DSi_B",
+        "Slot": 85,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "bus_model",
+        "Slot": 86,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "morning_glory",
+        "Slot": 87,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Eiffel_Tower",
+        "Slot": 88,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Dolphin_model",
+        "Slot": 89,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "GameCube_dresser",
+        "Slot": 90,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "pile_of_leaves",
+        "Slot": 91,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "sand_castle",
+        "Slot": 92,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "shopping_cart",
+        "Slot": 93,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Chihuahua_model",
+        "Slot": 95,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "dalmatian_model",
+        "Slot": 96,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "dachshund_model",
+        "Slot": 97,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Labrador_model",
+        "Slot": 98,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "election_poster",
+        "Slot": 99,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "anniversary_cake",
+        "Slot": 100,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "festive_wreath",
+        "Slot": 101,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Wii_locker",
+        "Slot": 103,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "hagoita",
+        "Slot": 104,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "blossom_lantern",
+        "Slot": 105,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "cucumber_horse",
+        "Slot": 106,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Nintendo_DS_Lite",
+        "Slot": 107,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "fedora_chair",
+        "Slot": 112,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Kapp_n_model",
+        "Slot": 114,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "tteok_plate",
+        "Slot": 121,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "kimbap_plate",
+        "Slot": 122,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "samgyetang_bowl",
+        "Slot": 123,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "shaved_ice_lamp",
+        "Slot": 124,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "flower_bouquet",
+        "Slot": 126,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Cupid_bench",
+        "Slot": 127,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Snowman_vanity",
+        "Slot": 131,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Mushroom_rack",
+        "Slot": 132,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Pav__clock",
+        "Slot": 133,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "egg_TV",
+        "Slot": 134,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Jingle_TV",
+        "Slot": 135,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "Gracie_dresser",
+        "Slot": 136,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "sweets_player",
+        "Slot": 137,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_bed",
+        "Slot": 139,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_dresser",
+        "Slot": 140,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_closet",
+        "Slot": 141,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_chair",
+        "Slot": 142,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_bench",
+        "Slot": 143,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_table",
+        "Slot": 144,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_clock",
+        "Slot": 145,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_man",
+        "Slot": 146,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_woman",
+        "Slot": 147,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_screen",
+        "Slot": 148,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_skeleton",
+        "Slot": 149,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_cauldron",
+        "Slot": 150,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_bat_stone",
+        "Slot": 151,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_stone",
+        "Slot": 152,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_coffin",
+        "Slot": 153,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_crystal",
+        "Slot": 154,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_clock",
+        "Slot": 155,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_statue",
+        "Slot": 156,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "hopscotch_floor",
+        "Slot": 240,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "sporty_floor",
+        "Slot": 241,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "wildflower_floor",
+        "Slot": 242,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "golden_carpet",
+        "Slot": 243,
+        "UsePrecreated": true
+    },
+    {
+        "Item": "creepy_carpet",
+        "Slot": 244,
+        "UsePrecreated": true
+    }
+]
