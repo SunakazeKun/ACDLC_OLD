@@ -83,4 +83,4 @@ Example: python acdlc.py -ra D:/saves/rvforest.dat
 Removes every DLC item and clears all slots in your savedata.
 
 # Credits
-Huge thanks to *Larsenv* for figuring out the checksum seed! Unfortunately, we don't know who created the ASH compressor, but it was shared by a user named *conanac*. More information about the tool can be found [here](https://gbatemp.net/download/ash-compressor.34055/).
+Huge thanks to *Larsenv* for figuring out the checksum seed! The ASH compressor was created by *conanac*.
