@@ -11,16 +11,15 @@
         "EuItalian": "FalconHelm HDLC",
         "KrKorean": "프로레슬링 마스크"
     },
-    "Price": 900,
     "ItemID": 3724,
-    "ItemType": "helmet",
+    "ClassName": "Cap",
+    "InventoryIcon": "helmet",
+    "DropModel": "fg_wig",
+    "Price": 900,
     "UnkC": 0,
     "UnkE": 446,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        220,
-        30,
+    "Unk167": 220,
+    "Unk169": [
         101,
         8,
         0,

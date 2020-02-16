@@ -11,16 +11,15 @@
         "EuItalian": "cast. di sabbia",
         "KrKorean": "모래성"
     },
-    "Price": 400,
     "ItemID": 3612,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 400,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        92,
-        16,
+    "Unk167": 92,
+    "Unk169": [
         101,
         16,
         0,

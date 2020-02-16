@@ -11,16 +11,15 @@
         "EuItalian": "carrello",
         "KrKorean": "쇼핑 카트"
     },
-    "Price": 3980,
     "ItemID": 3613,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 3980,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        93,
-        16,
+    "Unk167": 93,
+    "Unk169": [
         101,
         16,
         0,

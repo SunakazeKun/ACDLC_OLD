@@ -11,16 +11,15 @@
         "EuItalian": "muro horror",
         "KrKorean": "호러 벽지"
     },
-    "Price": 2000,
     "ItemID": 1103,
-    "ItemType": "wallpaper",
+    "ClassName": "Wall",
+    "InventoryIcon": "wallpaper",
+    "DropModel": "fg_wall",
+    "Price": 2000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        1,
-        3,
-        1,
+    "Unk167": 3,
+    "Unk169": [
         112,
         16,
         0,

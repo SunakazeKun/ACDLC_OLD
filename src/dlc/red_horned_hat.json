@@ -11,16 +11,15 @@
         "EuItalian": "capp. con corna",
         "KrKorean": "필승 코리아 뿔모자"
     },
-    "Price": 2400,
     "ItemID": 1975,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 2400,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        59,
-        4,
+    "Unk167": 59,
+    "Unk169": [
         101,
         16,
         0,

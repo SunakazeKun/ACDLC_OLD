@@ -11,16 +11,15 @@
         "EuItalian": "mucca melanzana",
         "KrKorean": "가지 소"
     },
-    "Price": 500,
     "ItemID": 3604,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 500,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        84,
-        16,
+    "Unk167": 84,
+    "Unk169": [
         101,
         16,
         0,

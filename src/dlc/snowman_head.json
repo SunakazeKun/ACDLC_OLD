@@ -11,16 +11,15 @@
         "EuItalian": "testa di neve",
         "KrKorean": "눈사람 모자"
     },
-    "Price": 2664,
     "ItemID": 1970,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 2664,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        54,
-        4,
+    "Unk167": 54,
+    "Unk169": [
         101,
         16,
         0,

@@ -11,16 +11,15 @@
         "EuItalian": "BlueLightSabreV1",
         "KrKorean": "금도끼"
     },
-    "Price": 7000000,
     "ItemID": 3714,
-    "ItemType": "gold_axe",
+    "ClassName": "GoldAxe",
+    "InventoryIcon": "gold_axe",
+    "DropModel": "fg_G_axe",
+    "Price": 7000000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        66,
-        210,
-        72,
+    "Unk167": 210,
+    "Unk169": [
         101,
         44,
         0,

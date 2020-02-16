@@ -11,16 +11,15 @@
         "EuItalian": "specchiera neve",
         "KrKorean": "눈사람 화장대"
     },
-    "Price": 3552,
     "ItemID": 3651,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 3552,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        131,
-        16,
+    "Unk167": 131,
+    "Unk169": [
         101,
         16,
         0,

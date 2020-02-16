@@ -11,16 +11,15 @@
         "EuItalian": "RedLightSabreV1",
         "KrKorean": "금도끼"
     },
-    "Price": 1000000,
     "ItemID": 3713,
-    "ItemType": "broken_axe",
+    "ClassName": "GoldAxe",
+    "InventoryIcon": "broken_axe",
+    "DropModel": "fg_G_axe",
+    "Price": 1000000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        66,
-        209,
-        72,
+    "Unk167": 209,
+    "Unk169": [
         101,
         44,
         0,

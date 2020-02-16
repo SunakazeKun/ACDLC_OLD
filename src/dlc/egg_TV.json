@@ -11,16 +11,15 @@
         "EuItalian": "tv uovo",
         "KrKorean": "달걀 TV"
     },
-    "Price": 3600,
     "ItemID": 3654,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 3600,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        134,
-        16,
+    "Unk167": 134,
+    "Unk169": [
         101,
         16,
         0,

@@ -11,16 +11,15 @@
         "EuItalian": "credenza d'oro",
         "KrKorean": "황금 서랍장"
     },
-    "Price": 32000,
     "ItemID": 3660,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 32000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        140,
-        16,
+    "Unk167": 140,
+    "Unk169": [
         101,
         16,
         0,

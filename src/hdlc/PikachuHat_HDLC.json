@@ -11,16 +11,15 @@
         "EuItalian": "PikachuHat HDLC",
         "KrKorean": "ブランクかんこく"
     },
-    "Price": 120,
     "ItemID": 3725,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 120,
     "UnkC": 0,
     "UnkE": 451,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        221,
-        4,
+    "Unk167": 221,
+    "Unk169": [
         101,
         8,
         0,

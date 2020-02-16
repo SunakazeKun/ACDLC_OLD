@@ -11,16 +11,15 @@
         "EuItalian": "ombrello acero",
         "KrKorean": "단풍잎 우산"
     },
-    "Price": 160,
     "ItemID": 1785,
-    "ItemType": "umbrella",
+    "ClassName": "Umbrella",
+    "InventoryIcon": "umbrella",
+    "DropModel": "fg_umbrella",
+    "Price": 160,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        56,
-        17,
-        29,
+    "Unk167": 17,
+    "Unk169": [
         101,
         16,
         0,

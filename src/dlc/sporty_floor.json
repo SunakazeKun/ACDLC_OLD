@@ -11,16 +11,15 @@
         "EuItalian": "suolo sportivo",
         "KrKorean": "운동회 바닥"
     },
-    "Price": 2000,
     "ItemID": 1301,
-    "ItemType": "carpet",
+    "ClassName": "Carpet",
+    "InventoryIcon": "carpet",
+    "DropModel": "fg_carpet",
+    "Price": 2000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        2,
-        241,
-        2,
+    "Unk167": 241,
+    "Unk169": [
         101,
         16,
         116,

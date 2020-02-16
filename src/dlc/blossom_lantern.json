@@ -11,16 +11,15 @@
         "EuItalian": "lampada bonbori",
         "KrKorean": "꽃그림 육면등"
     },
-    "Price": 2400,
     "ItemID": 3625,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 2400,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        105,
-        16,
+    "Unk167": 105,
+    "Unk169": [
         101,
         16,
         0,

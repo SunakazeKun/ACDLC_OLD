@@ -11,16 +11,15 @@
         "EuItalian": "capp. bianchi",
         "KrKorean": "백팀 모자"
     },
-    "Price": 120,
     "ItemID": 1888,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 120,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        36,
-        4,
+    "Unk167": 36,
+    "Unk169": [
         101,
         16,
         0,

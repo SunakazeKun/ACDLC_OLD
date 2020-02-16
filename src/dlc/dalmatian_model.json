@@ -11,16 +11,15 @@
         "EuItalian": "dalmata",
         "KrKorean": "달마시안 모형"
     },
-    "Price": 2800,
     "ItemID": 3616,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 2800,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        96,
-        16,
+    "Unk167": 96,
+    "Unk169": [
         101,
         16,
         0,

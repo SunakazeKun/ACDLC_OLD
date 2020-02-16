@@ -11,16 +11,15 @@
         "EuItalian": "capp. flamenco",
         "KrKorean": "플라멩코 모자"
     },
-    "Price": 1600,
     "ItemID": 1886,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 1600,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        34,
-        4,
+    "Unk167": 34,
+    "Unk169": [
         101,
         16,
         0,

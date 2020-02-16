@@ -11,16 +11,15 @@
         "EuItalian": "TriPokeBall HDLC",
         "KrKorean": "ブランクかんこく"
     },
-    "Price": 1024,
     "ItemID": 3716,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 1024,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        212,
-        16,
+    "Unk167": 212,
+    "Unk169": [
         61,
         39,
         0,

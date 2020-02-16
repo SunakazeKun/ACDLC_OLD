@@ -11,16 +11,15 @@
         "EuItalian": "mod. comandante",
         "KrKorean": "뱃사공 모형"
     },
-    "Price": 20000,
     "ItemID": 3634,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 20000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        114,
-        16,
+    "Unk167": 114,
+    "Unk169": [
         101,
         16,
         0,

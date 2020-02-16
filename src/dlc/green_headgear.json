@@ -11,16 +11,15 @@
         "EuItalian": "casco da boxe V",
         "KrKorean": "초록 헤드기어"
     },
-    "Price": 800,
     "ItemID": 1968,
-    "ItemType": "helmet",
+    "ClassName": "Cap",
+    "InventoryIcon": "helmet",
+    "DropModel": "fg_wig",
+    "Price": 800,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        52,
-        30,
+    "Unk167": 52,
+    "Unk169": [
         101,
         16,
         0,

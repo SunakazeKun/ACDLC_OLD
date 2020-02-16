@@ -11,16 +11,15 @@
         "EuItalian": "AshCap HDLC",
         "KrKorean": "빨간 야구 모자"
     },
-    "Price": 160,
     "ItemID": 3723,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 160,
     "UnkC": 0,
     "UnkE": 344,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        219,
-        4,
+    "Unk167": 219,
+    "Unk169": [
         101,
         8,
         0,

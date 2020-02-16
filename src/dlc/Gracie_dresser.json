@@ -11,16 +11,15 @@
         "EuItalian": "comodino Griffa",
         "KrKorean": "그레이스 화장대"
     },
-    "Price": 40000,
     "ItemID": 3656,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 40000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        136,
-        16,
+    "Unk167": 136,
+    "Unk169": [
         101,
         16,
         0,

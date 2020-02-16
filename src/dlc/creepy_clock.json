@@ -11,16 +11,15 @@
         "EuItalian": "orologio horror",
         "KrKorean": "미치광이 시계"
     },
-    "Price": 2800,
     "ItemID": 3675,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 2800,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        155,
-        16,
+    "Unk167": 155,
+    "Unk169": [
         101,
         16,
         0,

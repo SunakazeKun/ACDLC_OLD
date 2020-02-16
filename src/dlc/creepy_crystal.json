@@ -11,16 +11,15 @@
         "EuItalian": "sfera horror",
         "KrKorean": "불길한 수정"
     },
-    "Price": 8000,
     "ItemID": 3674,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 8000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        154,
-        16,
+    "Unk167": 154,
+    "Unk169": [
         101,
         16,
         0,

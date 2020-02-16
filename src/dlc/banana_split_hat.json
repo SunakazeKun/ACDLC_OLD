@@ -11,16 +11,15 @@
         "EuItalian": "cappello dessert",
         "KrKorean": "바나나 스플릿 모자"
     },
-    "Price": 3508,
     "ItemID": 1893,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 3508,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        41,
-        4,
+    "Unk167": 41,
+    "Unk169": [
         101,
         16,
         0,

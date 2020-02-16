@@ -11,16 +11,15 @@
         "EuItalian": "cappello polizia",
         "KrKorean": "하얀 경찰모"
     },
-    "Price": 240,
     "ItemID": 1896,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 240,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        44,
-        4,
+    "Unk167": 44,
+    "Unk169": [
         101,
         16,
         0,

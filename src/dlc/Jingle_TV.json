@@ -11,16 +11,15 @@
         "EuItalian": "tv jingle",
         "KrKorean": "크리스마스 TV"
     },
-    "Price": 4896,
     "ItemID": 3655,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 4896,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        135,
-        16,
+    "Unk167": 135,
+    "Unk169": [
         101,
         16,
         0,

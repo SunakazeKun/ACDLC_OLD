@@ -11,16 +11,15 @@
         "EuItalian": "fantombrello",
         "KrKorean": "해나와라 우산"
     },
-    "Price": 352,
     "ItemID": 1784,
-    "ItemType": "umbrella",
+    "ClassName": "Umbrella",
+    "InventoryIcon": "umbrella",
+    "DropModel": "fg_umbrella",
+    "Price": 352,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        56,
-        16,
-        29,
+    "Unk167": 16,
+    "Unk169": [
         101,
         16,
         0,

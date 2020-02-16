@@ -11,16 +11,15 @@
         "EuItalian": "berr. scozzese",
         "KrKorean": "스코틀랜드 모자"
     },
-    "Price": 4000,
     "ItemID": 1974,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 4000,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        58,
-        4,
+    "Unk167": 58,
+    "Unk169": [
         101,
         16,
         0,

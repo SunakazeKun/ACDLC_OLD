@@ -11,16 +11,15 @@
         "EuItalian": "GuitarAxe3 HDLC",
         "KrKorean": "금도끼"
     },
-    "Price": 500,
     "ItemID": 3721,
-    "ItemType": "gold_axe",
+    "ClassName": "GoldAxe",
+    "InventoryIcon": "gold_axe",
+    "DropModel": "fg_G_axe",
+    "Price": 500,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        66,
-        217,
-        72,
+    "Unk167": 217,
+    "Unk169": [
         101,
         44,
         0,

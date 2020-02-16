@@ -11,16 +11,15 @@
         "EuItalian": "statua horror",
         "KrKorean": "수상한 흉상"
     },
-    "Price": 3200,
     "ItemID": 3676,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 3200,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        156,
-        16,
+    "Unk167": 156,
+    "Unk169": [
         101,
         16,
         0,

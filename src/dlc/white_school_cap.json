@@ -11,16 +11,15 @@
         "EuItalian": "capp. scuola bn",
         "KrKorean": "백팀 운동회 모자"
     },
-    "Price": 120,
     "ItemID": 1895,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 120,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        43,
-        4,
+    "Unk167": 43,
+    "Unk169": [
         101,
         16,
         0,

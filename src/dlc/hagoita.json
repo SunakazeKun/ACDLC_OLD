@@ -11,16 +11,15 @@
         "EuItalian": "hagoita",
         "KrKorean": "일본 전통놀이 장식"
     },
-    "Price": 2400,
     "ItemID": 3624,
-    "ItemType": "furniture",
+    "ClassName": "Ftr",
+    "InventoryIcon": "furniture",
+    "DropModel": "fg_leaf",
+    "Price": 2400,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        3,
-        104,
-        16,
+    "Unk167": 104,
+    "Unk169": [
         101,
         16,
         0,

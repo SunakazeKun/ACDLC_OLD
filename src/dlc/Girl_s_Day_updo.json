@@ -11,16 +11,15 @@
         "EuItalian": "tiara orientale",
         "KrKorean": "일본 전통 왕비머리"
     },
-    "Price": 1332,
     "ItemID": 1967,
-    "ItemType": "hat",
+    "ClassName": "Cap",
+    "InventoryIcon": "hat",
+    "DropModel": "fg_cap",
+    "Price": 1332,
     "UnkC": 0,
     "UnkE": 0,
-    "Unk10": 5889,
-    "Unk166": [
-        5,
-        51,
-        4,
+    "Unk167": 51,
+    "Unk169": [
         101,
         16,
         0,
